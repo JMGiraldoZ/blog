@@ -1,2 +1,2 @@
-class ApplicationController < ActionController::Base
-end
+ApplicationController = Class.new(ActionController::Base)
+
